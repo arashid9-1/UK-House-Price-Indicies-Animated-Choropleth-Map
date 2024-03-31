@@ -10,6 +10,8 @@ Using the `plotly.express` module in `Python`, I created an animated choropleth 
 
 The North-South divide is instantly apparent, which has notably intensified over time. Northern regions, including the North-East, Liverpool, Manchester, Birmingham, and parts of Wales, initially positioned in the mid to low decile range in 2008, have descended to the bottom decile by 2023. Similarly, areas in Yorkshire, the Humber, and Cumbria, despite ranking within the top four deciles in 2008, have experienced relative house price stagnation compared to their southern counterparts. In stark contrast, the most consistently high-performing sectors are predominantly located around London, with decile rankings decreasing as distance from the capital increases. This disparity underscores an urgent need for governmental investment in the North. The observed stagnation not only mirrors a deficiency in opportunities and innovation but also contributes to escalating resource allocation inefficiencies and widening inequalities.
 
+![Detailed sector view](https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/assets/109870775/4fdc62e8-ca1f-4afe-a2d4-fa0ee55a2241)
+
 
 ***
 ### Data and Implementation 
